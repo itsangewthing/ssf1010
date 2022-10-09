@@ -32,6 +32,7 @@ public class QuoteController {
     @PostMapping("/registered")
     public String registerUser(@RequestBody MultiValueMap<String, String> form, Model model) {
 
+        //
         String email = form.getFirst("email").toLowerCase();
         String password = form.getFirst("password");
 
