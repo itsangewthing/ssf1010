@@ -1,0 +1,9 @@
+com/example/miniproject/model/User.class
+com/example/miniproject/model/Quote.class
+com/example/miniproject/repositories/UserRepository.class
+com/example/miniproject/service/QuoteService.class
+com/example/miniproject/controller/QuoteRESTController.class
+com/example/miniproject/controller/QuoteController.class
+com/example/miniproject/AppConfig.class
+com/example/miniproject/service/UserService.class
+com/example/miniproject/SsfMiniprojectApplication.class
